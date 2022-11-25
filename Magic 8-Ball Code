@@ -4,7 +4,9 @@ import random
 name = "Name"
 
 #type your question here
-question = "question" 
+question = "question"
+
+#leave empty
 answer = " "
 random_number = random.randint(1, 9)
 
